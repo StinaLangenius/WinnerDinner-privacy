@@ -11,6 +11,7 @@ WinnerDinner is an app for deciding what to cook together. This page explains wh
 - Photos you add of meals you have cooked
 - Your meal choices: swipes, matches and cooked history
 - Your household preferences: things you avoid, maximum cooking time and tonight's mood
+- An account identifier from Sign in with Apple, so you can sign in on any device
 
 We do not collect your location, contacts, or advertising identifiers, and the app contains no ads or tracking.
 
@@ -27,7 +28,7 @@ We do not sell your data or share it with anyone else.
 
 ## Deleting your data
 
-In the app, go to Household, scroll to the bottom and tap Delete household. This permanently deletes the household and everything in it, including all photos, for both members.
+In the app, go to Household, scroll to the bottom and tap Delete account. This permanently deletes your account and the household with everything in it, including all photos, for both members.
 
 ## Your rights
 
